@@ -1,6 +1,4 @@
-As duas collections foram unificadas contendo as três pastas (**User**, **Pet** e **Store**):
 
-```json
 {
   "info": {
     "_postman_id": "2e4c6878-95f1-45cf-a44b-7a2e37607aa1",
@@ -431,5 +429,3 @@ As duas collections foram unificadas contendo as três pastas (**User**, **Pet**
     }
   ]
 }
-
-```
